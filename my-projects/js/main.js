@@ -22,3 +22,4 @@ document.addEventListener('DOMContentLoaded',() => {
             displayWeather({main:{temp:'N/A'},weather:[{description : 'City name is required'}],localSunrise: 'N/A',localSunset:'N/A' });
         };
     });
+});
