@@ -1,6 +1,6 @@
 body{
     font-family:Arial,sans-serif;
-    background-color:rgb(209, 109, 122);
+    background-color:light purple;
     margin: 0;
     padding:0;
     color:black;
@@ -67,6 +67,7 @@ footer{
     bottom: 0;
     width:100%;
 }
+
 
 
 
